@@ -1,0 +1,6 @@
+E:\code\csharp\work\Proficient_Manager_System\ExcelDemo\obj\Release\ExcelDemo.csproj.ResolveComReference.cache
+E:\code\csharp\work\Proficient_Manager_System\ExcelDemo\bin\Release\ExcelDemo.exe
+E:\code\csharp\work\Proficient_Manager_System\ExcelDemo\bin\Release\ExcelDemo.pdb
+E:\code\csharp\work\Proficient_Manager_System\ExcelDemo\obj\Release\ExcelDemo.csprojResolveAssemblyReference.cache
+E:\code\csharp\work\Proficient_Manager_System\ExcelDemo\obj\Release\ExcelDemo.exe
+E:\code\csharp\work\Proficient_Manager_System\ExcelDemo\obj\Release\ExcelDemo.pdb

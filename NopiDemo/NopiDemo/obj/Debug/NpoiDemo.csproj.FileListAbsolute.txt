@@ -1,0 +1,11 @@
+E:\code\csharp\own\NopiDemo\NopiDemo\bin\Debug\NopiDemo.exe
+E:\code\csharp\own\NopiDemo\NopiDemo\bin\Debug\NopiDemo.pdb
+E:\code\csharp\own\NopiDemo\NopiDemo\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\code\csharp\own\NopiDemo\NopiDemo\bin\Debug\NPOI.dll
+E:\code\csharp\own\NopiDemo\NopiDemo\bin\Debug\NPOI.OOXML.dll
+E:\code\csharp\own\NopiDemo\NopiDemo\bin\Debug\NPOI.OpenXml4Net.dll
+E:\code\csharp\own\NopiDemo\NopiDemo\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\code\csharp\own\NopiDemo\NopiDemo\bin\Debug\NPOI.xml
+E:\code\csharp\own\NopiDemo\NopiDemo\obj\Debug\NpoiDemo.csprojResolveAssemblyReference.cache
+E:\code\csharp\own\NopiDemo\NopiDemo\obj\Debug\NopiDemo.exe
+E:\code\csharp\own\NopiDemo\NopiDemo\obj\Debug\NopiDemo.pdb
